@@ -34,6 +34,8 @@ Go to http://localhost:3000 in your browser
 - Blueimp File Upload Plugin
 - Jquery
 - Bootstrap
+- Karma
+- Jasmine
 
 ## Usage
 
