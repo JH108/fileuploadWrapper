@@ -4,7 +4,8 @@
   "description": "Currently in Process.st we support the ability for users to upload their own videos (in addition to letting them use videos from YouTube, Vimeo and Wistia).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server/index.js",
+    "test": "karma start"
   },
   "author": "Jesse Hill",
   "license": "ISC",
