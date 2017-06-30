@@ -11,5 +11,14 @@
   "dependencies": {
     "blueimp-file-upload": "^9.18.0",
     "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.4",
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-spec-reporter": "0.0.31"
   }
 }
